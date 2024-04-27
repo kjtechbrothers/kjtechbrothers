@@ -20,7 +20,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,github,git,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,github,git,postman)](https://skillicons.dev)
 
 ![Kashif Javed's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjtechbrothers&show_icons=true&theme=dark)
 
